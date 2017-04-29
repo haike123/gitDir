@@ -3,8 +3,8 @@ git is free software under the GPL
 
 git has a mutable index called stage
 
-git woshihaore 1
+git woshihaore 3
 
-pgit woshihaore 2
+pgit woshihaore 4
 
 addresa
